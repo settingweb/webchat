@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"30089002724767a326363e7ac7b697c9","lockfileHash":"f223b958bfd2af013a07942601e1a384","guessedImports":["clever-chat","discord.js","dotenv","chalk","express","quick.db","openai"],"guessedImportsHash":"e54f198496ea0586f73805522b5dfbcc"}}}
